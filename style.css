@@ -186,7 +186,7 @@ section .heading::after{
 
 .home{
     display: flex;
-    background: url("./image/banner.jpg") no-repeat center;
+    background: url("./image/bannerss.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
@@ -197,18 +197,21 @@ section .heading::after{
 }
 .home .home-content .text-1{
     font-size: 27px;
+    color:#00ff00;
 }
 .home .home-content .text-2{
     font-size: 75px;
     font-weight: 600;
     margin-left: -3px;
+    color:#00ff00;
 }
 .home .home-content .text-3{
     font-size: 40px;
     margin: 5px 0;
+    color:#00ff00;
 }
 .home .home-content .text-3 span{
-    color: crimson;
+    color: #ffff00;
     font-weight: 500;
 }
 .home .home-content a{
