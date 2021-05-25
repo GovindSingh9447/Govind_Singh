@@ -837,8 +837,8 @@ footer span a:hover{
 @media (max-width: 500px) {
   .navbar {
         position: fixed;
-        height: 100vh;
-    /*
+       /*  height: 100vh;
+   
         width: 100%;
         left: -100%;
         top: 0;
