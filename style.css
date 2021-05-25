@@ -834,7 +834,18 @@ footer span a:hover{
     
 }
 
-/*@media (max-width: 500px) {
+@media (max-width: 500px) {
+  .navbar {
+        position: fixed;
+        height: 100vh;
+        width: 100%;
+        left: -100%;
+        top: 0;
+        background: #111;
+        text-align: center;
+        padding-top: 80px;
+        transition: all 0.3s ease;
+    }
    .max-width{
         padding: 0 20px;
     }
@@ -864,4 +875,4 @@ footer span a:hover{
         line-height: 38px;
     }
 }
-*/
+
