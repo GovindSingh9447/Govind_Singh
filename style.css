@@ -797,6 +797,10 @@ footer span a:hover{
         width: calc(50% - 10px);
         margin-bottom: 20px;
     }
+  .projects .serv-content .card{
+        width: calc(50% - 10px);
+        margin-bottom: 20px;
+    }
    
     .skills .skills-content .column,
     .contact .contact-content .column{
@@ -819,6 +823,9 @@ footer span a:hover{
         font-size: 20px;
     }
     .services .serv-content .card{
+        width: 100%;
+    }
+  .projects .serv-content .card{
         width: 100%;
     }
     
