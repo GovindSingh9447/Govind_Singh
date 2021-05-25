@@ -407,6 +407,9 @@ section .heading::after{
 .skills-content .right .java::before{
     width: 75%;
 }
+.skills-content .right .UIUX::before{
+    width: 79%;
+}
 
 .skills-content .right .python::before{
     width: 55%;
