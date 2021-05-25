@@ -42,7 +42,11 @@
     
 }
 .navbar .logo a span{
-    color: crimson;
+    /*
+  --color:crimson;
+  */
+  --color:#6C63FF;
+  
     transition: all 0.3s ease;
 }
 .navbar.sticky .logo a span{
@@ -61,7 +65,10 @@
     transition: color 0.3s ease;
 }
 .navbar .menu li a:hover{
-    color: crimson;
+    /*
+  --color:crimson;
+  */
+  --color:#6C63FF;
 }
 .navbar.sticky .menu li a:hover{
     color: #fff;
@@ -135,7 +142,10 @@ section .title::after{
     bottom: -8px;
     left: 50%;
     font-size: 20px;
-    color: crimson;
+    /*
+  --color:crimson;
+  */
+  --color:#6C63FF;
     padding: 0 5px;
     background: #fff;
     transform: translateX(-50%);
@@ -166,7 +176,10 @@ section .heading::after{
     bottom: -8px;
     left: 50%;
     font-size: 20px;
-    color: crimson;
+    /*
+  --color:crimson;
+  */
+  --color:#6C63FF;
     padding: 0 5px;
     background: #fff;
     transform: translateX(-50%);
@@ -177,7 +190,10 @@ section .heading::after{
     bottom: -8px;
     left: 50%;
     font-size: 20px;
-    color: crimson;
+    /*
+  --color:crimson;
+  */
+  --color:#6C63FF;
     padding: 0 5px;
    
     transform: translateX(-50%);
@@ -230,7 +246,10 @@ section .heading::after{
     transition: all 0.3s ease;
 }
 .home .home-content a:hover{
-    color: crimson;
+    /*
+  --color:crimson;
+  */
+  --color:#6C63FF;
     background: none;
 }
 
@@ -257,7 +276,10 @@ section .heading::after{
     margin-bottom: 10px;
 }
 .about .about-content .right .text span{
-    color: crimson;
+    /*
+  --color:crimson;
+  */
+  --color:#6C63FF;
 }
 .about .about-content .right p{
     text-align: justify;
@@ -275,7 +297,10 @@ section .heading::after{
     transition: all 0.3s ease;
 }
 .about .about-content .right a:hover{
-    color: crimson;
+    /*
+  --color:crimson;
+  */
+  --color:#6C63FF;
     background: none;
 }
 
@@ -303,7 +328,10 @@ section .heading::after{
     transition: all 0.3s ease;
 }
 .services .serv-content .card:hover{
-    background: crimson;
+    /*
+  --color:crimson;
+  */
+  --color:#6C63FF;
 }
 .services .serv-content .card .box{
     transition: all 0.3s ease;
@@ -313,7 +341,10 @@ section .heading::after{
 }
 .services .serv-content .card i{
     font-size: 50px;
-    color: crimson;
+     /*
+  --color:crimson;
+  */
+  --color:#6C63FF;
     transition: color 0.3s ease;
 }
 .services .serv-content .card:hover i{
@@ -359,7 +390,10 @@ section .heading::after{
     transition: all 0.3s ease;
 }
 .skills .skills-content .left a:hover{
-    color: crimson;
+    /*
+  --color:crimson;
+  */
+  --color:#6C63FF;
     background: none;
 }
 .skills .skills-content .right .bars{
@@ -476,7 +510,10 @@ section .heading::after{
 }
 .projects .serv-content .card i{
     font-size: 50px;
-    color: crimson;
+     /*
+  --color:crimson;
+  */
+  --color:#6C63FF;
     transition: color 0.3s ease;
 }
 .projects .serv-content .card:hover i{
@@ -704,7 +741,10 @@ section .heading::after{
     transition: all 0.3s ease;
 }
 .contact .right form .button button:hover{
-    color: crimson;
+    /*
+  --color:crimson;
+  */
+  --color:#6C63FF;
     background: none;
 }
 
@@ -718,7 +758,10 @@ footer{
     text-align: center;
 }
 footer span a{
-    color: crimson;
+     /*
+  --color:crimson;
+  */
+  --color:#6C63FF;
     text-decoration: none;
 }
 footer span a:hover{
