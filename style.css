@@ -2,9 +2,13 @@
 
 :root{
   /*
-  --color:crimson;
-  */
   --color:#6C63FF;
+  */
+  --color:crimson;
+}
+
+html{
+    scroll-behavior: smooth;
 }
 
 
@@ -15,6 +19,43 @@
     box-sizing: border-box;
     text-decoration: none;
 }
+
+
+/* menu btn styling */
+.menu-btn{
+    color: #fff;
+    font-size: 23px;
+    cursor: pointer;
+    display: none;
+}
+.scroll-up-btn{
+    position: fixed;
+    height: 45px;
+    width: 42px;
+    background: crimson;
+    right: 30px;
+    bottom: 10px;
+    text-align: center;
+    line-height: 45px;
+    color: #fff;
+    z-index: 9999;
+    font-size: 30px;
+    border-radius: 6px;
+    border-bottom-width: 2px;
+    cursor: pointer;
+    opacity: 0;
+    pointer-events: none;
+    transition: all 0.3s ease;
+}
+.scroll-up-btn.show{
+    bottom: 30px;
+    opacity: 1;
+    pointer-events: auto;
+}
+.scroll-up-btn:hover{
+    filter: brightness(90%);
+}
+
 
 
 
@@ -77,9 +118,7 @@
 
 
 
-html{
-    scroll-behavior: smooth;
-}
+
 
 /* custom scroll bar */
 ::-webkit-scrollbar {
@@ -208,6 +247,7 @@ section .heading::after{
     background: url("./image/binner.png") no-repeat center;
     height: 100vh;
     color: #fff;
+    margin:
     min-height: 500px;
     font-family: 'Ubuntu', sans-serif;
 }
