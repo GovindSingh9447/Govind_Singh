@@ -274,7 +274,7 @@ section .heading::after{
 }
 .home .home-content a{
     display: inline-block;
-    background: crimson;
+    background: #6C63FF;
     color: #fff;
     font-size: 25px;
     padding: 12px 36px;
