@@ -32,7 +32,7 @@ html{
     position: fixed;
     height: 45px;
     width: 42px;
-    background: crimson;
+    background: #6C63FF;
     right: 30px;
     bottom: 10px;
     text-align: center;
@@ -69,7 +69,7 @@ html{
 }
 .navbar.sticky{
     padding: 15px 0;
-    background: crimson;
+    background: #6C63FF;
 }
 .navbar .max-width{
     display: flex;
@@ -86,7 +86,7 @@ html{
    /*
   --color:#6C63FF;
   */
-  --color:crimson;
+  --color:#6C63FF;
     transition: all 0.3s ease;
 }
 .navbar.sticky .logo a span{
