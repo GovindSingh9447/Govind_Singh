@@ -69,7 +69,7 @@ html{
 }
 .navbar.sticky{
     padding: 15px 0;
-    background: #6C63FF;
+    background: #0F00FF;
 }
 .navbar .max-width{
     display: flex;
@@ -274,14 +274,14 @@ section .heading::after{
 }
 .home .home-content a{
     display: inline-block;
-    background: #6C63FF;
+    background: #0F00FF;
     color: #fff;
     font-size: 25px;
     padding: 12px 36px;
     margin-top: 20px;
     font-weight: 400;
      border-radius: 6px;
-    border: 2px solid #6C63FF;
+    border: 2px solid #0F00FF;
     transition: all 0.3s ease;
 }
 .home .home-content a:hover{
@@ -325,8 +325,8 @@ section .heading::after{
 }
 .about .about-content .right a{
     display: inline-block;
-    background: #6C63FF;
-    color: #fff;
+    background: #0F00FF;
+    color: #6C63FF;
     font-size: 20px;
     font-weight: 500;
     padding: 10px 30px;
@@ -370,7 +370,7 @@ section .heading::after{
     /*
   --color:#6C63FF;
   */
-  --color:crimson;
+  --color:#0F00FF;
 }
 .services .serv-content .card .box{
     transition: all 0.3s ease;
