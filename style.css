@@ -478,6 +478,9 @@ section .heading::after{
 .skills-content .right .mysql::before{
     width: 87%;
 }
+.skills-content .right .nosql::before{
+    width: 78%;
+}
 .skills-content .right .xml::before{
     width: 90%;
 }
