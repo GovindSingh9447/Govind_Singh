@@ -719,7 +719,7 @@ section .heading::after{
 }
 .contact .contact-content .row i{
     font-size: 25px;
-    color: crimson;
+    color: #6C63FF;
 }
 .contact .contact-content .info .head{
     font-weight: 500;
