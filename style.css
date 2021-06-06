@@ -532,6 +532,7 @@ section .heading::after{
 .teams .title::after{
    
     content: "I have done";
+    color: #000000;
 }
 .projects .serv-content .card{
     width: calc(33% - 20px);
