@@ -319,7 +319,7 @@ section .heading::after{
    /*
   --color:#6C63FF;
   */
-  --color:crimson;
+  --color:#6C63FF;
 }
 .about .about-content .right p{
     text-align: justify;
