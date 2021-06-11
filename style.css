@@ -244,7 +244,7 @@ section .heading::after{
 
 .home{
     display: flex;
-    background: url("./image/ubg2.png") no-repeat center;
+    background: url("./image/ubg.png") no-repeat center;
     height: 100vh;
     color: #fff;
     margin:
