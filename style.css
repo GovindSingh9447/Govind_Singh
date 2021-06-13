@@ -800,7 +800,7 @@ section .heading::after{
 
 /* footer section styling */
 footer{
-    background: #111;
+    background: -webkit-linear-gradient(135deg, rgb(247, 108, 84), rgb(191, 99, 123));
     padding: 15px 23px;
     color: #fff;
     text-align: center;
