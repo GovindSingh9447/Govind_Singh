@@ -355,11 +355,11 @@ section .heading::after{
 }
 .services .title::before,
 .teams .title::before{
-    background: #fff;
+    /*background: #fff;*/
 }
 .services .title::after,
 .teams .title::after{
-    /*background: #111;*/
+    background: #111;
     content: "what i provide";
 }
 .services .serv-content .card{
@@ -507,7 +507,7 @@ section .heading::after{
 
 .projects, .teams{
     color:#fff;
-    background: #111;
+    background: -webkit-linear-gradient(135deg, rgb(247, 108, 84), rgb(191, 99, 123));
 }
 .projects .title::before,
 .teams .title::before{
@@ -800,7 +800,7 @@ section .heading::after{
 
 /* footer section styling */
 footer{
-    background: -webkit-linear-gradient(135deg, rgb(247, 108, 84), rgb(191, 99, 123));
+    background: #111;
     padding: 15px 23px;
     color: #fff;
     text-align: center;
