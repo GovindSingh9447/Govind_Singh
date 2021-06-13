@@ -77,6 +77,12 @@ html{
     align-items: center;
     justify-content: space-between;
 }
+.navbar .logo {
+   
+   padding-left:20px;
+    
+    
+}
 .navbar .logo a{
     color: #fff;
     font-size: 45px;
