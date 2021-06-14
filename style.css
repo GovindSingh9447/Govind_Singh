@@ -158,6 +158,11 @@ section{
     align-items: center;
     justify-content: space-between;
 }
+.uiux .uiux-cards{
+flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
 section .title{
     position: relative;
     text-align: center;
