@@ -977,7 +977,7 @@ footer span a:hover{
     }
    
     .skills .skills-content .column,
-    /*.contact .contact-content .column*/{
+   .contact .contact-content .column{
         width: 100%;
         margin-bottom: 35px;
     }
@@ -1002,9 +1002,7 @@ footer span a:hover{
   .projects .serv-content .card{
         width: 100%;
     }
-  .uiux .serv-content .uiux-cards{
-        width: 80%;
-    }
+ 
     
 }
 
