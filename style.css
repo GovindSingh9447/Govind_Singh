@@ -611,8 +611,6 @@ section .heading::after{
     cursor: pointer;
     transition: all 0.3s ease;
 }
-.
-
 .uiux-card {
     background-color: #efefef;
     box-shadow: 0 1.5rem 6rem rgba(0, 0, 0, .3);
