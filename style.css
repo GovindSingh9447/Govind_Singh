@@ -1012,6 +1012,10 @@ footer span a:hover{
   .uiux .uiux-cards{
     display:column;
   }
+  
+  .uiux.uiux-card {
+  width:70px;
+  }
 }
 
 @media (max-width: 500px) {
