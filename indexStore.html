@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Wab page Design</title>
+	<meta name="viewport" content="width=device-width, initial-scale=0.1">
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<div class="cont">
+		<div class="navbar">
+			<img src="logo.png" class="logo">
+			<h2>..Sstore</h2>
+			<nav>
+				<ul id="menulist">
+					<li><a href="#">UI Designs</a></li>
+					<li><a href="#">UX Designs</a></li>
+					<li><a href="#">Web Designs</a></li>
+					<li><a href="#">App Designs</a></li>
+				</ul>
+			</nav>
+			<img src="love.png" class="menu" onclick="togglemenu()">
+		</div>
+		<div class="row">
+			<div class="col-1">
+				<h2>Latest Mobile Designs</h2>
+				<h3>Food Delivery app UI designs Like Varta</h3>
+				<p>Contain 160+ Screen</p>
+				<h4>$72.5</h4>
+				<button type="button">Get Now</button>
+				
+			</div>
+			<div class="col-2">
+				<img src="web-1.png" class="img">
+
+				
+			</div>
+		</div>
+	</div>
+
+	<script>
+		var menulist=document.getElementById("menulist");
+		menulist.style.maxHeight ="0px";
+		function togglemenu(){
+			if (menulist.style.maxHeight=="0px") {
+				menulist.style.maxHeight="130px"
+			}
+			else{
+				menulist.style.maxHeight="0px"
+			}
+		}
+	</script>
+</body>
+</html>	
+
