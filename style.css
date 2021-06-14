@@ -643,7 +643,7 @@ section .heading::after{
 .uiux-btn {
     width: 100%;
     padding: 1.6rem 0;
-    background-color: #12376e;
+    background: -webkit-linear-gradient(135deg, rgb(247, 108, 84), rgb(191, 99, 123));
     font-size: 1.9rem;
     color: #fff;
     border: none;
@@ -656,7 +656,7 @@ section .heading::after{
 }
 
 .uiux-btn:hover {
-    background-color: #23487f;
+   background: -webkit-linear-gradient(45deg, rgb(191, 99, 123), rgb(247, 108, 84));
 }
 /* end of uiux Project */
 
