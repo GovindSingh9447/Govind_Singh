@@ -977,7 +977,7 @@ footer span a:hover{
     }
    
     .skills .skills-content .column,
-    .contact .contact-content .column{
+    /*.contact .contact-content .column*/{
         width: 100%;
         margin-bottom: 35px;
     }
@@ -1003,13 +1003,13 @@ footer span a:hover{
         width: 100%;
     }
   .uiux .serv-content .uiux-cards{
-        width: 100%;
+        width: 80%;
     }
     
 }
 
 @media (max-width: 500px) {
- .navbar {
+/* .navbar {
         position: fixed;
         height: 100vh;
         width: 100%;
@@ -1020,7 +1020,7 @@ footer span a:hover{
         padding-top: 80px;
         transition: all 0.3s ease;
    
-    } 
+    }*/ 
    .max-width{
         padding: 0 20px;
     }
