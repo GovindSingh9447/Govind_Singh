@@ -647,7 +647,12 @@ section .heading::after{
     font-size: 1.9rem;
     color: #fff;
     border: none;
+    transition: all 0.3s ease;
     border-radius: 0 0 .3rem .3rem;
+}
+.uiux-btn a{
+  text-decoration: none;
+  text-color:#fff:
 }
 
 .uiux-btn:hover {
