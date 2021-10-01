@@ -1,0 +1,17 @@
+h1 {
+    width:700px;
+    margin: 0 auto;
+    color: blue;
+    background-color: rgba(241, 181, 50, 0.664);
+    text-shadow: 5pt;
+    text-align: center;
+    font-size: 36px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+img
+{
+    margin: 25px;
+
+}
