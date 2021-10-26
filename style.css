@@ -332,7 +332,7 @@ section .heading::after{
 }
 .about .about-content .right a{
     display: inline-block;
-    background: #0F00FF;
+    background: #033E3E;
     color: #6C63FF;
     font-size: 20px;
     font-weight: 500;
