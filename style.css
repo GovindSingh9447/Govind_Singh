@@ -879,7 +879,7 @@ section .heading::after{
 
 /* footer section styling */
 footer{
-    background: #111;
+    background: #033E3E;//#111
     padding: 15px 23px;
     color: #fff;
     text-align: center;
