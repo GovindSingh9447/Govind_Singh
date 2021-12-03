@@ -1,0 +1,16 @@
+#resume-tamplate{
+    display: none;
+}
+
+body{
+    background-color: rgba(208, 204, 212, 0.486);
+}
+
+.myimg{
+    border: 1px solid red;
+    width: 30%;
+}
+
+.background{
+    background-color: rgb(73, 73, 95);
+}
