@@ -81,6 +81,20 @@ function generateresume(){
     }
 
     document.getElementById('aqT').innerHTML=str1;
+   
+   
+    //set img to template
+
+    reader.onloadend = function()
+    {
+        document.getElementById("imgTemplate").src=reader.result;
+    }
+
+    
+
+    document.getElementById('resume-form').style.display="none";
+    document.getElementById("resume-tamplate").style.display="block";
+}
 
     document.getElementById('resume-form').style.display="none";
     document.getElementById("resume-tamplate").style.display="block";
