@@ -64,7 +64,7 @@ function generateresume(){
 
     for(let e of wes)
     {
-        str=str + '<li> ${e.value}</li>';
+        str=str + `<li> ${e.value}</li>`;
 
     }
 
@@ -77,7 +77,7 @@ function generateresume(){
     let str1=" ";
 
     for(let e of aqs){
-        str1=str1 + '<li> ${e.value}</li>';
+        str1=str1 + `<li> ${e.value}</li>`;
     }
 
     document.getElementById('aqT').innerHTML=str1;
