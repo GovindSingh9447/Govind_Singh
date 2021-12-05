@@ -64,7 +64,7 @@ function generateresume(){
 
     for(let e of wes)
     {
-        str=str + `<li> ${e.value}</li>`;
+        str=str +`<li> ${e.value}</li >`
 
     }
 
