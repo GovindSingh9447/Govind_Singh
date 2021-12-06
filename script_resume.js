@@ -32,7 +32,7 @@ function addNewAQField(){
 }
 
 
-function generateresume(){
+function generateresume() {
 
     let nameField= document.getElementById("nameField").value;
     let nameT=document.getElementById("nameT");
