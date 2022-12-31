@@ -355,7 +355,8 @@ section .heading::after{
     color:#fff;
     /*background: #111;*/
    
-    background: -webkit-linear-gradient(135deg, rgb(253, 207, 107), rgb(167, 53, 24));
+    background: #123C54 
+      /* -webkit-linear-gradient(135deg, rgb(253, 207, 107), rgb(167, 53, 24)); */
      
 }
 .services .title::before,
