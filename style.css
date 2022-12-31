@@ -555,7 +555,7 @@ section .heading::after{
     transition: all 0.3s ease;
 }
 .projects .serv-content .card:hover{
-    background: #0F00FF;
+    background: #3B356B;
 }
 .projects .serv-content .card .box{
     transition: all 0.3s ease;
