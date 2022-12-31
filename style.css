@@ -513,7 +513,8 @@ section .heading::after{
 
 .projects, .teams{
     color:#fff;
-    background: -webkit-linear-gradient(135deg, rgb(247, 108, 84), rgb(191, 99, 123));
+    background: #123C54
+       /* -webkit-linear-gradient(135deg, rgb(247, 108, 84), rgb(191, 99, 123)); */
 }
 .projects .title::before,
 .teams .title::before{
