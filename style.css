@@ -69,8 +69,8 @@ html{
 }
 .navbar.sticky{
     padding: 15px 0;
-    background: #033E3E;
-    border: 2px solid #6C63FF;
+    background: #0F3043;
+    border: 2px solid #0F3022;
 }
 .navbar .max-width{
     display: flex;
